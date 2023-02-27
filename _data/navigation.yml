@@ -3,7 +3,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Category"
-    url: /cateories/
+    url: /categories/
   - title: "Search"
     url: /search/
   # - title: "Quick-Start Guide"
