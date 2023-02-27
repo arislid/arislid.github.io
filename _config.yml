@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+locale                   : "ko-KR"
+title                    : "Minji's Tech Blog"
+title_separator          : "|" # "글 제목"|"김자빈의 개발노트"
+subtitle                 : "결을 맺는 사람이 되자." # site tagline that appears below site title in masthead
+name                     : "Min.J.Park"
+description              : ""
 url                      : "https://arislid.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MinjiPark"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Computer Vision Engineer. Interested in on-device, multi-modal, 3d vision"
+  location         : "Seoul/S.Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:arislid@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,6 +130,7 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
+# 맨 하단에 링크 적기 주로 소셜 링크를 넣으면 된다.
 footer:
   links:
     - label: "Twitter"
@@ -140,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/arislid"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
