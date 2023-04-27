@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Minji's Tech Blog"
+title                    : "Minji's Writings"
 title_separator          : "|" # "글 제목"|"김자빈의 개발노트"
 subtitle                 : "결을 맺는 사람이 되자." # site tagline that appears below site title in masthead
 name                     : "Min.J.Park"
